@@ -206,7 +206,7 @@ git push origin feature-name
 
 5. Open a Pull Request
 
----
+
 
 ## 👨‍💻 Author
 
